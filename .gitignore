@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and editor folders
+.vscode/
+.idea/
+
+# Large data files - IMPORTANT
+data/raw/creditcard.csv
+data/processed/creditcard_processed.csv
