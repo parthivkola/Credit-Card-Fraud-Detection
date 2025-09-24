@@ -152,5 +152,5 @@ You can modify this file to add or change features. If you do, **retrain the mod
 ## Business Value
 Credit card fraud costs banks billions annually.  
 This project demonstrates how machine learning can:
-- Detect 92% of fraudulent transactions (high recall).  
+- Detect 92% of fraudulent transactions (high recall).(in the optimized model not pipeline)
 - Reduce financial loss while tuning thresholds to limit false positives (avoid customer annoyance).  
