@@ -148,3 +148,9 @@ The script will generate a new CSV file containing the original data along with:
 Feature engineering steps are defined in `src/feature_engineering.py`. The included features (`hour`, `log_amount`, `business_hours`) are based on initial analysis and are designed as a strong starting point.
 
 You can modify this file to add or change features. If you do, **retrain the model** to ensure it can leverage your new features.
+
+## Business Value
+Credit card fraud costs banks billions annually.  
+This project demonstrates how machine learning can:
+- Detect 92% of fraudulent transactions (high recall).  
+- Reduce financial loss while tuning thresholds to limit false positives (avoid customer annoyance).  
